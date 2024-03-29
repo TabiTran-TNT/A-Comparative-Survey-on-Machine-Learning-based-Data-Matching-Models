@@ -8,10 +8,10 @@ fraud detection and prevention, credit scoring/risk assessment and compliance mo
 In this assignment, we will observe and compare the performance of data matching model based on traditional machine learning methods and deep learning approaches on three different type of datasets, namely clean structural, dirty and textual.
 
 ## What we observed
-* For clean structural datasets, we found that traditional machine learning-based baseline
+* For _**clean structural datasets**_, we found that traditional machine learning-based baseline
 models (Support Vector Machines (SVM), XGBoost, and Random Forest) were sufficient and exhibited comparable performance to deep learning models.
 
-* For textual and dirty datasets, deep learning-based methods demonstrated
+* For _**textual and dirty datasets**_, deep learning-based methods demonstrated
 superior performance. This can be attributed to their ability to integrate natural language
 processing capabilities from attention-based or recurrent neural network models.
 
