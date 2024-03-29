@@ -5,7 +5,7 @@ _This is the assignment of Data Mining course at my university. All the code for
 Data Matching is the problem of finding structure data items that describe the same real-world enity, which has many applications such as identity management, risk management,
 fraud detection and prevention, credit scoring/risk assessment and compliance monitoring.
 
-In this assignment, we will observe and compare the performance of data matching model based on traditional machine learning methods and deep learning approaches on three different type of datasets, namely clean structural, dirty and textual.
+In this assignment, we will **observe and compare the performance of data matching model based on traditional machine learning methods and deep learning approaches on three different type of datasets, namely clean structural, dirty and textual**.
 
 ## What we observed
 * For _**clean structural datasets**_, we found that traditional machine learning-based baseline
