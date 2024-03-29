@@ -1,5 +1,5 @@
 # A-Comparative-Survey-on-Machine-Learning-based-Data-Matching-Models
-_This is the assignment of Data Mining course at my university._
+_This is the assignment of Data Mining course at my university. All the code for experiment is in ML-based_DM folder_
 
 ## Introduction and Experiment
 Data Matching is the problem of finding structure data items that describe the same real-world enity, which has many applications such as identity management, risk management,
