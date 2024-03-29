@@ -19,6 +19,23 @@ processing capabilities from attention-based or recurrent neural network models.
 ### Dataset Overview
 ![image](https://github.com/BinhTran-HCMUT/A-Comparative-Survey-on-Machine-Learning-based-Data-Matching-Models/assets/98327248/14dea8bd-1317-4721-abdb-2d78f54ad76e)
 
+### Traditional Machine Learning Methods and Deep Learning Methods
+**Traditional Machine Learning Methods**
+* Naive Bayes
+* Random Forest
+* Decision Tree
+* Support Vector Machine
+* Logistic Regression
+* XGBoost
+
+**Deep Learning Methods**
+* SIF
+* RNN-based
+* Attention-based
+* Hybrid
+
+_Detail of those methods' description can be found on my team report_
+
 ###  Dataset 1: iTunes-Amazon-1 (Structured)
 ![image](https://github.com/BinhTran-HCMUT/A-Comparative-Survey-on-Machine-Learning-based-Data-Matching-Models/assets/98327248/c0b6bcfe-d80b-4488-b5a9-2a56b0af7ca7)
 ![image](https://github.com/BinhTran-HCMUT/A-Comparative-Survey-on-Machine-Learning-based-Data-Matching-Models/assets/98327248/2f741607-b520-4a93-bdb0-eaebc3964ae4)
